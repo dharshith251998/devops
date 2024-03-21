@@ -21,3 +21,6 @@ git branch <branchname>
 git checkout -b <branchname>
 # commit branch to remote
 git push -u origin <branchname>
+# switch branch
+git checkout <branchname>
+
