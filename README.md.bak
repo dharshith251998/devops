@@ -17,6 +17,8 @@ git push -u origin
 git pull
 # create branch
 git branch <branchname>
+# highlight working branch
+git branch
 # branch checkout
 git checkout -b <branchname>
 # commit branch to remote
