@@ -19,3 +19,5 @@ git pull
 git branch <branchname>
 # branch checkout
 git checkout -b <branchname>
+# commit branch to remote
+git push -u origin <branchname>
